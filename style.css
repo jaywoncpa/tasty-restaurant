@@ -1,0 +1,15 @@
+.hero {
+    border: 1px solid red;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    flex-direction:  row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hero div {
+    border: 1px solid black;
+    width: 45%;
+    height: 90%;
+}
